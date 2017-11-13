@@ -1,0 +1,12 @@
+hash: 3a007b1606e35dc6b42557a9b4d8b60df2cc84e5c32b9694b055e42e85a74ae3
+updated: 2017-11-14T00:46:48.24639228+09:00
+imports:
+- name: github.com/ikawaha/kagome
+  version: 677e2d3e9573cecf929328c17f9d5d72b76e1ee2
+  subpackages:
+  - internal/da
+  - internal/dic
+  - internal/dic/data
+  - internal/lattice
+  - tokenizer
+testImports: []

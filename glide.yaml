@@ -1,0 +1,3 @@
+package: github.com/konojunya/go-morphological-analysis
+import:
+  - package: github.com/ikawaha/kagome
